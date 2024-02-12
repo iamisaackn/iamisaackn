@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -32,15 +32,6 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iamisaackn&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamisaackn&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iamisaackn&icon=0&color=0)](https://visitcount.itsvg.in)

@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my Machine Learning Engineering skills.
-- 🌱 I’m currently learning Computer Science, discipline in quantitative finance.
-- 👯 I’m looking to collaborate on Quantitative projects.
+- 🔭 I’m currently working on my ML & AI Engineering skills.
+- 🌱 I’m currently learning Computer Science, discipline in data science.
+- 👯 I’m looking to collaborate on ML & AI projects.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love being organized.
 

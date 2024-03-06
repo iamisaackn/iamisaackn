@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my Quantitative Developer career.
+- 🔭 I’m currently working on my Machine Learning career.
 - 🌱 I’m currently learning Computer Science, discipline in quantitative finance.
 - 👯 I’m looking to collaborate on Quantitative projects.
 - 😄 Pronouns: He/Him

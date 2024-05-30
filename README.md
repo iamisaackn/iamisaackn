@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 # My Coding Activity
 
-<img src="https://wakatime.com/share/@iamisaackn/8de1adbb-4a8e-4d6e-8958-36d4b5595bf9.svg"  width="400" height="200">
+<img src="https://wakatime.com/share/@iamisaackn/8de1adbb-4a8e-4d6e-8958-36d4b5595bf9.svg"  width="400" height="400">
 
 [![](https://visitcount.itsvg.in/api?id=iamisaackn&icon=0&color=0)](https://visitcount.itsvg.in)

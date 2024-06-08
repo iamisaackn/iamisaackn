@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my AI and ML skills.
+- 🔭 I’m currently working on my Quantitative Analysis skills.
 - 🌱 I’m currently learning Computer Science, a discipline in Data Science.
 - 👯 I’m looking to collaborate on AI, ML, Data Science and Analysis projects.
 - 😄 Pronouns: He/Him

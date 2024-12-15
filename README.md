@@ -44,9 +44,8 @@
 - Sports: Volleyball.
 - Leadership: Class Prefect.
 
-### CONTACT
-itsngugiisaackinyanjui@gmail.com | +254111905855
-[LinkedIn](https://www.linkedin.com/in/isaackngugi/) | [GitHub](https://github.com/iamisaackn)
+## CONTACT
+itsngugiisaackinyanjui@gmail.com | +254111905855 | [LinkedIn](https://www.linkedin.com/in/isaackngugi/) | [GitHub](https://github.com/iamisaackn)
 
 ### SKILLS
 Leadership, Communication, Teamwork, Time Management, Creativity, Critical Thinking, Collaboration, Problem Solving, Conflict Resolution, Adaptability, Project Management, Data Analysis, Data Science, Machine Learning, Technical Writing, Pandas, NumPy, Python, Linux, Matplotlib, SQL, NoSQL, Natural Language Understanding, Computer Vision, Big Data Technologies, Java, C/C++, Scikit-learn, Data Structure, Algorithm, Statistical Analysis, Data Manipulation, Advanced Database Management, Cloud Computing, Research Skills

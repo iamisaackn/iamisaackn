@@ -1,55 +1,58 @@
 # ISAAC KINYANJUI NGUGI
 
 ## AI/ML/Data Science PROJECTS
-- AI Fashion Image Classification
-- Plant Disease Detection System
-- Twitter Sentiment Analysis
-- Tanzania Waterpoint OS Prediction
-- Box Office Movie Analysis
+- **AI Fashion Image Classification**
+- **Plant Disease Detection System**
+- **Twitter Sentiment Analysis**
+- **Tanzania Waterpoint OS Prediction**
+- **Box Office Movie Analysis**
 
 ## VOLUNTEER EXPERIENCE
-- **iHub, CUEA** — *Community Lead*
-- **HULT PRIZE CUEA** — *Judges and Expert Lead*
-- **iHub, CUEA** — *Data Science Lead*
-- **GDG CUEA Chapter, CUEA** — *Core Team*
+- **iHub, CUEA** — *Community Lead* 🌟
+- **HULT PRIZE CUEA** — *Judges and Expert Lead* 🎓
+- **iHub, CUEA** — *Data Science Lead* 📊
+- **GDG CUEA Chapter, CUEA** — *Core Team* 🌐
 
 ## EDUCATION
-- **Catholic University Eastern Africa, Karen** — *BSc. in Computer Science*
-- **WorldQuant University, USA** — *Open Data Science Lab*
-- **Moringa School, Ngong** — *Data Science*
-- **Njiiri School, Muranga** — *High School*
-- **St. Paul Thomas Academy, Muranga** — *Primary School*
+- **Catholic University Eastern Africa, Karen** — *BSc. in Computer Science* 🎓
+- **WorldQuant University, USA** — *Open Data Science Lab* 🌍
+- **Moringa School, Ngong** — *Data Science* 💻
+- **Njiiri School, Muranga** — *High School* 🏫
+- **St. Paul Thomas Academy, Muranga** — *Primary School* 🏅
 
 ### SKILLS
-Leadership, Communication, Teamwork, Time Management, Creativity, Critical Thinking, Collaboration, Problem Solving, Conflict Resolution, Adaptability, Project Management, Data Analysis, Data Science, Machine Learning, Technical Writing, Pandas, NumPy, Python, Linux, Matplotlib, SQL, NoSQL, Natural Language Understanding, Computer Vision, Big Data Technologies, Java, C/C++, Scikit-learn, Data Structure, Algorithm, Statistical Analysis, Data Manipulation, Advanced Database Management, Cloud Computing, Research Skills
+Leadership, Communication, Teamwork, Time Management, Creativity, Critical Thinking, Collaboration, Problem Solving, Conflict Resolution, Adaptability, Project Management, Data Analysis, Data Science, Machine Learning, Technical Writing, Pandas, NumPy, Python, Linux, Matplotlib, SQL, NoSQL, Natural Language Understanding, Computer Vision, Big Data Technologies, Java, C/C++, Scikit-learn, Data Structure, Algorithm, Statistical Analysis, Data Manipulation, Advanced Database Management, Cloud Computing, Research Skills.
 
 ## ACHIEVEMENTS
-- Mastercard Scholarship
-- Host of Global Digital Health Week ( Digital Health, Data, and Patient-Centered Care: How to Put People First )
+- **Mastercard Scholarship** 🎓
+- **Host of Global Digital Health Week** 🌍 (Digital Health, Data, and Patient-Centered Care: How to Put People First)
 
 ## CERTIFICATIONS
-- IAB Digital Marketing and Media Foundations Certification
-- IBM CIC Talent Series Training
+- **IAB Digital Marketing and Media Foundations Certification**
+- **IBM CIC Talent Series Training**
 
 ## Community Membership
-- YO.DH (Youth Ownership of Digital Health)
-- GDG (Google Developer Group)
-- ADHSN (African Digital Health Student Network)
+- **YO.DH (Youth Ownership of Digital Health)**
+- **GDG (Google Developer Group)**
+- **ADHSN (African Digital Health Student Network)**
 
 ## LANGUAGES
-- English
-- Kiswahili
+- **English** 🇬🇧
+- **Kiswahili** 🇰🇪
+
+## CONTACT
+📧 itsngugiisaackinyanjui@gmail.com | 📞 +254111905855
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaackngugi/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/iamisaackn)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamisaackn&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamisaackn&theme=yeblu&hide_border=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamisaackn&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamisaackn&theme=yeblu&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamisaackn&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Coding Activity
-
 <img src="https://wakatime.com/share/@iamisaackn/8de1adbb-4a8e-4d6e-8958-36d4b5595bf9.svg"  width="700" height="400">
 
 [![](https://visitcount.itsvg.in/api?id=iamisaackn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## CONTACT
-itsngugiisaackinyanjui@gmail.com | +254111905855 | [LinkedIn](https://www.linkedin.com/in/isaackngugi/) | [GitHub](https://github.com/iamisaackn)
+![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)

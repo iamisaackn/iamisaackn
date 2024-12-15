@@ -15,10 +15,10 @@
 
 ## EDUCATION
 - **Catholic University Eastern Africa, Karen** — *BSc. in Computer Science* 🎓
-- **WorldQuant University, USA** — *Open Data Science Lab* 🌍
-- **Moringa School, Ngong** — *Data Science* 💻
-- **Njiiri School, Muranga** — *High School* 🏫
-- **St. Paul Thomas Academy, Muranga** — *Primary School* 🏅
+- **WorldQuant University, USA** — *Nano-Degree in Open Data Science Lab* 🌍
+- **Moringa School, Ngong** — *Nano-Degree in Data Science* 💻
+- **Njiiri School, Muranga** — *Kenya Certificate of Secondary Education* 🏫
+- **St. Paul Thomas Academy, Muranga** — *Kenya Certificate of Primary Education* 🏅
 
 ### SKILLS
 Leadership, Communication, Teamwork, Time Management, Creativity, Critical Thinking, Collaboration, Problem Solving, Conflict Resolution, Adaptability, Project Management, Data Analysis, Data Science, Machine Learning, Technical Writing, Pandas, NumPy, Python, Linux, Matplotlib, SQL, NoSQL, Natural Language Understanding, Computer Vision, Big Data Technologies, Java, C/C++, Scikit-learn, Data Structure, Algorithm, Statistical Analysis, Data Manipulation, Advanced Database Management, Cloud Computing, Research Skills.

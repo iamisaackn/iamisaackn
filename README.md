@@ -1,6 +1,6 @@
 # ISAAC KINYANJUI NGUGI
 
-## AI/ML/Data Science PROJECTS
+## DA/DS/ML/AI PROJECTS
 - **[AI Fashion Image Classification](https://github.com/iamisaackn/AI-Fashion-Image-Classification)**
 - **[Plant Disease Detection System](https://github.com/iamisaackn/AI-Driven-Plant-Disease-Detection-System)**
 - **[Twitter Sentiment Analysis](https://github.com/iamisaackn/Twitter-Sentiment-Analysis)**

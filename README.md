@@ -1,11 +1,11 @@
 # ISAAC KINYANJUI NGUGI
 
 ## AI/ML/Data Science PROJECTS
-- **AI Fashion Image Classification**
-- **Plant Disease Detection System**
-- **Twitter Sentiment Analysis**
-- **Tanzania Waterpoint OS Prediction**
-- **Box Office Movie Analysis**
+- **[AI Fashion Image Classification](https://github.com/iamisaackn/AI-Fashion-Image-Classification)**
+- **[Plant Disease Detection System](https://github.com/iamisaackn/AI-Driven-Plant-Disease-Detection-System)**
+- **[Twitter Sentiment Analysis](https://github.com/iamisaackn/Twitter-Sentiment-Analysis)**
+- **[Tanzania Waterpoint OS Prediction](https://github.com/iamisaackn/Predictive-Analytics-for-Waterpoint-Operational-Status-in-Tanzania)**
+- **[Box Office Movie Analysis](https://github.com/iamisaackn/BOX_OFFICE_MOVIES_ANALYSIS)**
 
 ## VOLUNTEER EXPERIENCE
 - **iHub, CUEA** — *Community Lead* 🌟

@@ -49,41 +49,7 @@ itsngugiisaackinyanjui@gmail.com | +254111905855
 [LinkedIn](https://www.linkedin.com/in/isaackngugi/) | [GitHub](https://github.com/iamisaackn)
 
 ### SKILLS
-- Leadership
-- Communication
-- Teamwork
-- Time Management
-- Creativity
-- Critical Thinking
-- Collaboration
-- Problem Solving
-- Conflict Resolution
-- Adaptability
-- Project Management
-- Data Analysis
-- Data Science
-- Machine Learning
-- Technical Writing
-- Pandas
-- NumPy
-- Python
-- Linux
-- Matplotlib
-- SQL
-- NoSQL
-- Natural Language Understanding
-- Computer Vision
-- Big Data Technologies
-- Java
-- C/C++
-- Scikit-learn
-- Data Structure
-- Algorithm
-- Statistical Analysis
-- Data Manipulation
-- Advanced Database Management
-- Cloud Computing
-- Research Skills
+Leadership, Communication, Teamwork, Time Management, Creativity, Critical Thinking, Collaboration, Problem Solving, Conflict Resolution, Adaptability, Project Management, Data Analysis, Data Science, Machine Learning, Technical Writing, Pandas, NumPy, Python, Linux, Matplotlib, SQL, NoSQL, Natural Language Understanding, Computer Vision, Big Data Technologies, Java, C/C++, Scikit-learn, Data Structure, Algorithm, Statistical Analysis, Data Manipulation, Advanced Database Management, Cloud Computing, Research Skills
 
 ### AI PROJECTS
 - AI Fashion Image Classification
@@ -104,31 +70,12 @@ itsngugiisaackinyanjui@gmail.com | +254111905855
 - English
 - Kiswahili
 
-
-# Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my Quantitative Analysis skills.
-- 🌱 I’m majoring in Computer Science, with a minor in Data Science.
-- 👯 I’m looking to collaborate on AI, ML, Data Science and Analysis projects.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love being organized.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaackngugi)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_isaackn) 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamisaackn&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>

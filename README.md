@@ -3,46 +3,24 @@
 ## VOLUNTEER EXPERIENCE
 
 **iHub, CUEA** — *Community Lead*
-*October 2024 - Present*
-- Empowering student-led startups to acquire investment.
-- Overseeing clubs and student-led initiatives.
 
 **HULT PRIZE CUEA** — *Judges and Expert Lead*
-*October 2024 - Present*
-- In charge of searching for speakers, mentors, and experienced entrepreneurs to aid student-startup led projects.
 
 **iHub, CUEA** — *Data Science Lead*
-*May 2024 - Present*
-- Introduced “Introduction to Data Science Series” and founded “Data Science in Health”.
 
 **GDG CUEA Chapter, CUEA** — *Core Team*
-*August 2022 - Present*
-- Head of Media and Marketing.
-- Digital campaign of events, poster, and image creation.
 
 ## EDUCATION
 
 **Catholic University Eastern Africa, Karen** — *BSc. in Computer Science*
-*September 2022 - Present*
-- Leadership roles: GDSC Media and Marketing Lead, Data Science Lead at iHub CUEA, and Community Lead at iHub CUEA.
 
 **WorldQuant University, USA** — *Open Data Science Lab*
-*April 2024 - Present*
-- Leadership: Group Leader.
 
 **Moringa School, Ngong** — *Data Science*
-*April 2024 - November 2024*
-- Leadership: Group Leader.
 
 **Njiiri School, Muranga** — *High School*
-*June 2018 - April 2022*
-- Club: Member of St. John’s Ambulance Club.
-- Leadership: Treasurer Catholic Action.
 
 **St. Paul Thomas Academy, Muranga** — *Primary School*
-*June 2018 - April 2022*
-- Sports: Volleyball.
-- Leadership: Class Prefect.
 
 ## CONTACT
 itsngugiisaackinyanjui@gmail.com | +254111905855 | [LinkedIn](https://www.linkedin.com/in/isaackngugi/) | [GitHub](https://github.com/iamisaackn)

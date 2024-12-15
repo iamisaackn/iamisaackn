@@ -44,7 +44,7 @@ Leadership, Communication, Teamwork, Time Management, Creativity, Critical Think
 - **Kiswahili** 🇰🇪
 
 ## CONTACT
-📧 itsngugiisaackinyanjui@gmail.com | 📞 +254111905855
+📧 [itsngugiisaackinyanjui@gmail.com](mailto:itsngugiisaackinyanjui@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaackngugi/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/iamisaackn)
 

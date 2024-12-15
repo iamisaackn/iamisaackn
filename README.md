@@ -1,6 +1,6 @@
 # ISAAC KINYANJUI NGUGI
 
-I'm a passionate digital health and climate change activist. With a firm belief in the strong correlation between diseases and weather changes, my mission is to leverage my tech skills to create a future where health crises due to climate change are not only reduced but prevented. As a computer science major with a minor in data science, I have upskilled myself in project management, collaboration, and delivering user-centered solutions. I believe that by harnessing the power of data, we can make a significant impact on both health and climate change, ensuring that all economic classes can benefit from improved healthcare.
+I'm a dedicated digital health and climate change activist, driven by the undeniable connection between diseases and weather changes. My mission is to harness my tech skills to create a future where health crises induced by climate change are not only minimized but also prevented. As a computer science major with a minor in data science, I am passionate about leveraging the power of data to make a significant impact on both health and climate change. By utilizing data-driven solutions, we can ensure that all economic classes benefit from improved healthcare, creating a healthier and more equitable world. 🌍
 
 ## DA/DS/ML/AI PROJECTS
 - **[AI Fashion Image Classification](https://github.com/iamisaackn/AI-Fashion-Image-Classification)**

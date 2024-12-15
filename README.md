@@ -1,5 +1,12 @@
 # ISAAC KINYANJUI NGUGI
 
+## AI/ML/Data Science PROJECTS
+- AI Fashion Image Classification
+- Plant Disease Detection System
+- Twitter Sentiment Analysis
+- Tanzania Waterpoint OS Prediction
+- Box Office Movie Analysis
+
 ## VOLUNTEER EXPERIENCE
 - **iHub, CUEA** — *Community Lead*
 - **HULT PRIZE CUEA** — *Judges and Expert Lead*
@@ -16,28 +23,22 @@
 ### SKILLS
 Leadership, Communication, Teamwork, Time Management, Creativity, Critical Thinking, Collaboration, Problem Solving, Conflict Resolution, Adaptability, Project Management, Data Analysis, Data Science, Machine Learning, Technical Writing, Pandas, NumPy, Python, Linux, Matplotlib, SQL, NoSQL, Natural Language Understanding, Computer Vision, Big Data Technologies, Java, C/C++, Scikit-learn, Data Structure, Algorithm, Statistical Analysis, Data Manipulation, Advanced Database Management, Cloud Computing, Research Skills
 
-## AI PROJECTS
-- AI Fashion Image Classification
-- Plant Disease Detection System
-- Twitter Sentiment Analysis
-- Tanzania Waterpoint OS Prediction
-- Box Office Movie Analysis
-
 ## ACHIEVEMENTS
 - Mastercard Scholarship
-- Host of Global Digital Health
+- Host of Global Digital Health Week ( Digital Health, Data, and Patient-Centered Care: How to Put People First )
 
 ## CERTIFICATIONS
 - IAB Digital Marketing and Media Foundations Certification
 - IBM CIC Talent Series Training
 
+## Community Membership
+- YO.DH (Youth Ownership of Digital Health)
+- GDG (Google Developer Group)
+- ADHSN (African Digital Health Student Network)
+
 ## LANGUAGES
 - English
 - Kiswahili
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaackngugi)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_isaackn) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamisaackn&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>

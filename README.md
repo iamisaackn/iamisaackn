@@ -1,6 +1,6 @@
-## ISAAC KINYANJUI NGUGI
+# ISAAC KINYANJUI NGUGI
 
-### VOLUNTEER EXPERIENCE
+## VOLUNTEER EXPERIENCE
 
 **iHub, CUEA** — *Community Lead*
 *October 2024 - Present*
@@ -20,11 +20,10 @@
 - Head of Media and Marketing.
 - Digital campaign of events, poster, and image creation.
 
-### EDUCATION
+## EDUCATION
 
 **Catholic University Eastern Africa, Karen** — *BSc. in Computer Science*
 *September 2022 - Present*
-- Current Grade C of 58 points.
 - Leadership roles: GDSC Media and Marketing Lead, Data Science Lead at iHub CUEA, and Community Lead at iHub CUEA.
 
 **WorldQuant University, USA** — *Open Data Science Lab*
@@ -33,18 +32,15 @@
 
 **Moringa School, Ngong** — *Data Science*
 *April 2024 - November 2024*
-- Grade: 85.85%
 - Leadership: Group Leader.
 
 **Njiiri School, Muranga** — *High School*
 *June 2018 - April 2022*
-- Grade: B+ of 67 points.
 - Club: Member of St. John’s Ambulance Club.
 - Leadership: Treasurer Catholic Action.
 
 **St. Paul Thomas Academy, Muranga** — *Primary School*
 *June 2018 - April 2022*
-- Grade: A- of 376 points.
 - Sports: Volleyball.
 - Leadership: Class Prefect.
 

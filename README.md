@@ -8,6 +8,7 @@ I'm a dedicated digital health and climate change activist, driven by the undeni
 - **[Twitter Sentiment Analysis](https://github.com/iamisaackn/Twitter-Sentiment-Analysis)**
 - **[Tanzania Waterpoint OS Prediction](https://github.com/iamisaackn/Predictive-Analytics-for-Waterpoint-Operational-Status-in-Tanzania)**
 - **[Box Office Movie Analysis](https://github.com/iamisaackn/BOX_OFFICE_MOVIES_ANALYSIS)**
+- **[Thyroid Risk Prediction](https://github.com/iamisaackn/IKN-Thyroid-Risk-Prediction)**
 
 ## Research Project
 - **[Fleet Management Systems: A Case Study of Verizon Connect In Health](https://www.researchgate.net/publication/386086740_FLEET_MANAGEMENT_SYSTEMS_A_CASE_STUDY_OF_VERIZON_CONNECT_IN_HEALTH)** — **Research Proposal**

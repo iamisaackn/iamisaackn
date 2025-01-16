@@ -43,6 +43,7 @@ Leadership, Communication, Teamwork, Time Management, Creativity, Critical Think
 - **YO.DH (Youth Ownership of Digital Health)**
 - **GDG (Google Developer Group)**
 - **ADHSN (African Digital Health Student Network)**
+- **TheirWorld GYA (Global Youth Ambassador) SDG4**
 
 ## LANGUAGES
 - **English** 🇬🇧

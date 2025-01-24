@@ -10,6 +10,7 @@ I'm a dedicated digital health and climate change activist, driven by the undeni
 - **[Box Office Movie Analysis](https://github.com/iamisaackn/BOX_OFFICE_MOVIES_ANALYSIS)**
 - **[Thyroid Risk Prediction](https://github.com/iamisaackn/IKN-Thyroid-Risk-Prediction)**
 - **[Heart Failure Prediction](https://github.com/iamisaackn/IKN-Heart-Failure-Prediction)**
+- **[ADHD Diversity NeuroInclusion(Ongoing)](https://github.com/iamisaackn/IKN-ADHD-Diversity-NeuroInclusion)**
 
 ## Research Project
 - **[Fleet Management Systems: A Case Study of Verizon Connect In Health](https://www.researchgate.net/publication/386086740_FLEET_MANAGEMENT_SYSTEMS_A_CASE_STUDY_OF_VERIZON_CONNECT_IN_HEALTH)** — **Research Proposal**

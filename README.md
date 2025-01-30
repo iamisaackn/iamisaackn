@@ -5,7 +5,7 @@ I'm a dedicated digital health and climate change activist, driven by the undeni
 ## Data Science & ML/AI PROJECTS
 - **[AI Fashion Image Classification](https://github.com/iamisaackn/AI-Fashion-Image-Classification)**
 - **[Plant Disease Detection System](https://github.com/iamisaackn/AI-Driven-Plant-Disease-Detection-System)**
-- **[Twitter Sentiment Analysis](https://github.com/iamisaackn/Twitter-Sentiment-Analysis)**
+- **[Twitter Sentiment Analysis](https://github.com/MONISH254/Twitter_Sentiment_Analysis/tree/Isaac)**
 - **[Tanzania Waterpoint OS Prediction](https://github.com/iamisaackn/Predictive-Analytics-for-Waterpoint-Operational-Status-in-Tanzania)**
 - **[Box Office Movie Analysis](https://github.com/iamisaackn/BOX_OFFICE_MOVIES_ANALYSIS)**
 - **[Thyroid Risk Prediction](https://github.com/iamisaackn/IKN-Thyroid-Risk-Prediction)**

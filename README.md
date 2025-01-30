@@ -3,6 +3,7 @@
 I'm a dedicated digital health and climate change activist, driven by the undeniable connection between diseases and weather changes. My mission is to harness my tech skills to create a future where health crises induced by climate change are not only minimized but also prevented. As a computer science major with a minor in data science, I am passionate about leveraging the power of data to make a significant impact on both health and climate change. By utilizing data-driven solutions, we can ensure that all economic classes benefit from improved healthcare, creating a healthier and more equitable world. 🌍
 
 ## Data Science & ML/AI PROJECTS
+- **[Aviation Risk Analysis](https://github.com/iamisaackn/Aviation-Risk-Analysis)**
 - **[AI Fashion Image Classification](https://github.com/iamisaackn/AI-Fashion-Image-Classification)**
 - **[Plant Disease Detection System](https://github.com/iamisaackn/AI-Driven-Plant-Disease-Detection-System)**
 - **[Twitter Sentiment Analysis](https://github.com/MONISH254/Twitter_Sentiment_Analysis/tree/Isaac)**
@@ -11,6 +12,10 @@ I'm a dedicated digital health and climate change activist, driven by the undeni
 - **[Thyroid Risk Prediction](https://github.com/iamisaackn/IKN-Thyroid-Risk-Prediction)**
 - **[Heart Failure Prediction](https://github.com/iamisaackn/IKN-Heart-Failure-Prediction)**
 - **[ADHD Diversity NeuroInclusion(Ongoing)](https://github.com/iamisaackn/IKN-ADHD-Diversity-NeuroInclusion)**
+
+
+## Tableau and PowerBI Projects
+- **[Aviation Risk Analysis - Tableau](https://public.tableau.com/authoring/IKNAviationRiskAnalysis)**
 
 ## Research Project
 - **[Fleet Management Systems: A Case Study of Verizon Connect In Health](https://www.researchgate.net/publication/386086740_FLEET_MANAGEMENT_SYSTEMS_A_CASE_STUDY_OF_VERIZON_CONNECT_IN_HEALTH)** — **Research Proposal**

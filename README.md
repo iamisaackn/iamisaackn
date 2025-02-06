@@ -6,9 +6,9 @@ I'm a dedicated digital health and climate change activist, driven by the undeni
 - **[Aviation Risk Analysis](https://github.com/iamisaackn/Aviation-Risk-Analysis)**
 - **[AI Fashion Image Classification](https://github.com/iamisaackn/AI-Fashion-Image-Classification)**
 - **[Plant Disease Detection System](https://github.com/iamisaackn/AI-Driven-Plant-Disease-Detection-System)**
-- **[Twitter Sentiment Analysis](https://github.com/MONISH254/Twitter_Sentiment_Analysis/tree/Isaac)**
+- **[Twitter Sentiment Analysis - Group Project](https://github.com/MONISH254/Twitter_Sentiment_Analysis/tree/Isaac)**
 - **[Tanzania Waterpoint OS Prediction](https://github.com/iamisaackn/Predictive-Analytics-for-Waterpoint-Operational-Status-in-Tanzania)**
-- **[Box Office Movie Analysis](https://github.com/iamisaackn/BOX_OFFICE_MOVIES_ANALYSIS)**
+- **[Box Office Movie Analysis - Group Project](https://github.com/Gladwellchebelyon/GROUP7_BOX_OFFICE_MOVIES_ANALYSIS/tree/IsaacNgugi)**
 - **[Thyroid Risk Prediction](https://github.com/iamisaackn/IKN-Thyroid-Risk-Prediction)**
 - **[Heart Failure Prediction](https://github.com/iamisaackn/IKN-Heart-Failure-Prediction)**
 - **[ADHD Diversity NeuroInclusion(Ongoing)](https://github.com/iamisaackn/IKN-ADHD-Diversity-NeuroInclusion)**

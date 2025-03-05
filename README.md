@@ -23,6 +23,8 @@ I'm a dedicated digital health and climate change activist, driven by the undeni
 - **[Fleet Management Systems: A Case Study of Verizon Connect In Health](https://www.researchgate.net/publication/386086740_FLEET_MANAGEMENT_SYSTEMS_A_CASE_STUDY_OF_VERIZON_CONNECT_IN_HEALTH)** — **Research Proposal**
 
 ## VOLUNTEER EXPERIENCE
+- **TheirWorld** — *Global Youth Ambassador* 🌟
+- **Youth Ownership of Digital Health** — *African Chapter Community Lead* 🌟
 - **iHub, CUEA** — *Community Manager* 🌟
 - **HULT PRIZE CUEA** — *Judges and Expert Lead* 🎓
 - **iHub, CUEA** — *Data Science Lead* 📊

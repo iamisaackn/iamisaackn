@@ -15,9 +15,11 @@ I'm a dedicated digital health and climate change activist, driven by the undeni
 
 ## DataBase System Projects
 - **[Real Estate Management System](https://github.com/Kirbit04/Real-Estate-Management-system/tree/IsaacNgugi1049049)**
+- **[Seed Bank Management System](https://github.com/iamisaackn/Seed-Bank-Management-System)**
 
-## Tableau and PowerBI Projects
-- **[Aviation Risk Analysis - Tableau](https://public.tableau.com/authoring/IKNAviationRiskAnalysis)**
+## Software System Projects
+- **[Company Management System - Group Project (C# Programming &.Net Frameworks)](https://github.com/iamisaackn/CompanyManagementSystem)**
+- **[MyTutor - Group Project (Java Programming & PhP Framework)](https://github.com/iamisaackn/MyTutor)**
 
 ## Research Project
 - **[Fleet Management Systems: A Case Study of Verizon Connect In Health](https://www.researchgate.net/publication/386086740_FLEET_MANAGEMENT_SYSTEMS_A_CASE_STUDY_OF_VERIZON_CONNECT_IN_HEALTH)** — **Research Proposal**

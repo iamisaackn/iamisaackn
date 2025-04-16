@@ -25,42 +25,25 @@
 ## VOLUNTEER EXPERIENCE
 - **TheirWorld** — *Global Youth Ambassador* 🌟
 - **Youth Ownership of Digital Health** — *African Chapter Community Lead* 🌟
-- **iHub, CUEA** — *Community Manager* 🌟
 - **HULT PRIZE CUEA** — *Judges and Expert Lead* 🎓
-- **iHub, CUEA** — *Data Science Lead* 📊
+- **iHub, CUEA** — *Data Science Volunteer* 📊
 - **GDG CUEA Chapter, CUEA** — *Marketing and Media Lead* 🌐
-- **GDG CUEA Chapter, CUEA** — *Marketing Lead* 🌐
 
 ## EDUCATION
 - **Catholic University Eastern Africa, Karen** — *BSc. in Computer Science* 🎓
-- **WorldQuant University, USA** — *Nano-Degree in Open Data Science Lab* 🌍
 - **Moringa School, Ngong** — *Nano-Degree in Data Science* 💻
-- **Njiiri School, Muranga** — *Kenya Certificate of Secondary Education* 🏫
-- **St. Paul Thomas Academy, Muranga** — *Kenya Certificate of Primary Education* 🏅
 
-### SKILLS
-Leadership, Communication, Teamwork, Time Management, Creativity, Critical Thinking, Collaboration, Problem Solving, Conflict Resolution, Adaptability, Project Management, Data Analysis, Data Science, Machine Learning, Technical Writing, Pandas, NumPy, Python, Linux, Matplotlib, SQL, NoSQL, Natural Language Understanding, Computer Vision, Big Data Technologies, Java, C/C++, Scikit-learn, Data Structure, Algorithm, Statistical Analysis, Data Manipulation, Advanced Database Management, Cloud Computing, Research Skills.
 
 ## ACHIEVEMENTS
 - **Mastercard Scholarship** 🎓
 - **Host of Global Digital Health Week** 🌍 (Digital Health, Data, and Patient-Centered Care: How to Put People First)
-
-## CERTIFICATIONS
-- **IAB Digital Marketing and Media Foundations Certification**
-- **IBM CIC Talent Series Training**
-
-## Community Membership
-- **YO.DH (Youth Ownership of Digital Health)**
-- **GDG (Google Developer Group)**
-- **ADHSN (African Digital Health Student Network)**
-- **TheirWorld GYA (Global Youth Ambassador) SDG4**
 
 ## LANGUAGES
 - **English** 🇬🇧
 - **Kiswahili** 🇰🇪
 
 ## CONTACT
-📧 [itsngugiisaackinyanjui@gmail.com](mailto:itsngugiisaackinyanjui@gmail.com)
+📧 [ngugiisaackinyanjui254@gmail.com](mailto:ngugiisaackinyanjui254@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaackngugi/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/iamisaackn)
 

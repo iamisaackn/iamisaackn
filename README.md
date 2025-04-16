@@ -43,8 +43,8 @@
 - **Kiswahili** 🇰🇪
 
 ## CONTACT
-[Email: ngugiisaackinyanjui254@gmail.com](mailto:ngugiisaackinyanjui254@gmail.com)
-[LinkedIn: isaackngugi](https://www.linkedin.com/in/isaackngugi/)
-[GitHub: iamisaackn](https://github.com/iamisaackn)
+- [Email: ngugiisaackinyanjui254@gmail.com](mailto:ngugiisaackinyanjui254@gmail.com)
+- [LinkedIn: isaackngugi](https://www.linkedin.com/in/isaackngugi/)
+- [GitHub: iamisaackn](https://github.com/iamisaackn)
 
 

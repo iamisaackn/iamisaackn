@@ -4,7 +4,7 @@
 
 Helping SMEs unlock growth through data-driven decisions, predictive analytics & AI-powered solutions.
 
-## HOW I BRING VALUE TO SMES
+## HOW I BRING VALUE TO SMEs
 I bridge the gap between raw data and business growth. With expertise in **data analysis, AI, and software systems**, I help SMEs solve challenges like:
 * **Customer Insights & Marketing** → Using data to understand customers, improve targeting, and boost sales.
 * **Operational Efficiency** → Automating repetitive tasks and predicting risks before they hit profits.

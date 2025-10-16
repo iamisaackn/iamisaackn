@@ -48,7 +48,7 @@ I bridge the gap between raw data and business growth. With expertise in **data 
 - **Mastercard Scholar & Digital Health Week Host**
 
 ## CONNECT
-- **📧 [Email: ngugiisaackinyanjui254@gmail.com](mailto:ngugiisaackinyanjui254@gmail.com)**
+- **📧 [Email: ngugiisaackinyanjui254@gmail.com](mailto:isaackngugi.ds@gmail.com)**
 - **🔗 [LinkedIn: isaackngugi](https://www.linkedin.com/in/isaackngugi/)**
 - **💻 [GitHub: iamisaackn](https://github.com/iamisaackn)**
 

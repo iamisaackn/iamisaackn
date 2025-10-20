@@ -54,5 +54,5 @@ I bridge the gap between raw data and business growth. With expertise in **data 
 - **[LinkedIn: isaackngugi](https://www.linkedin.com/in/isaackngugi/)**
 - **[X/Twitter: itsisaackngugi](https://x.com/itsisaackngugi)**
 - **[FaceBook: iamisaackn](https://web.facebook.com/iamisaackn/)**
-- **[Website Portfolio ](https://iamisaackn.github.io/portfolio/)**
+- **[Website Portfolio ](https://iamisaackn.github.io)**
 

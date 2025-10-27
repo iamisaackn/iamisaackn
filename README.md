@@ -12,12 +12,6 @@ I bridge the gap between raw data and business growth. With expertise in **data 
 * **Innovation & Competitiveness** → Building AI-driven tools that keep SMEs ahead in fast-changing markets.
 
 ## PROJECTS & SOLUTIONS
-**Risk & Predictive Analytics**
-- **[Aviation Risk Analysis](https://github.com/iamisaackn/Aviation-Risk-Analysis)**
-- **[Thyroid Risk Prediction](https://github.com/iamisaackn/IKN-Thyroid-Risk-Prediction)**
-- **[Heart Failure Prediction](https://github.com/iamisaackn/IKN-Heart-Failure-Prediction)**
-- **[Tanzania Waterpoint OS Prediction](https://github.com/iamisaackn/Predictive-Analytics-for-Waterpoint-Operational-Status-in-Tanzania)**
-
 * **AI for Business & Industry**
 - **[AI Fashion Image Classification](https://github.com/iamisaackn/AI-Fashion-Image-Classification)**
 - **[Plant Disease Detection System](https://github.com/iamisaackn/AI-Driven-Plant-Disease-Detection-System)**
@@ -25,6 +19,12 @@ I bridge the gap between raw data and business growth. With expertise in **data 
 - **[ChatDoc (Context Aware Document QA Chatbot)](https://github.com/iamisaackn/ChatDoc)**
 - **[InsightsAI (Intelligent Business Document Analysis Tool)](https://github.com/iamisaackn/InsightsAI-ChatPdf)**
 - **[AI TutorMCP (Model Context Protocal)](https://github.com/iamisaackn/AI-TutorMCP)**
+
+* **Risk & Predictive Analytics**
+- **[Aviation Risk Analysis](https://github.com/iamisaackn/Aviation-Risk-Analysis)**
+- **[Thyroid Risk Prediction](https://github.com/iamisaackn/IKN-Thyroid-Risk-Prediction)**
+- **[Heart Failure Prediction](https://github.com/iamisaackn/IKN-Heart-Failure-Prediction)**
+- **[Tanzania Waterpoint OS Prediction](https://github.com/iamisaackn/Predictive-Analytics-for-Waterpoint-Operational-Status-in-Tanzania)**
 
 * **Customer Insights** 
 - **[Twitter Sentiment Analysis - Group Project](https://github.com/MONISH254/Twitter_Sentiment_Analysis/tree/Isaac)**

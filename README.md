@@ -24,6 +24,7 @@ I bridge the gap between raw data and business growth. With expertise in **data 
 - **[Box Office Movie Analysis - Group Project](https://github.com/Gladwellchebelyon/GROUP7_BOX_OFFICE_MOVIES_ANALYSIS/tree/IsaacNgugi)**
 - **[ChatDoc (Context Aware Document QA Chatbot)](https://github.com/iamisaackn/ChatDoc)**
 - **[InsightsAI (Intelligent Business Document Analysis Tool)](https://github.com/iamisaackn/InsightsAI-ChatPdf)**
+- **[AI TutorMCP (Model Context Protocal)](https://github.com/iamisaackn/AI-TutorMCP)**
 
 * **Customer Insights** 
 - **[Twitter Sentiment Analysis - Group Project](https://github.com/MONISH254/Twitter_Sentiment_Analysis/tree/Isaac)**

@@ -1,6 +1,6 @@
 # ISAAC KINYANJUI NGUGI
 
-**Data Analyst | Data Scientist | AI Engineer**
+**Data & AI Consultant | Data Scientist | AI Engineer**
 
 Helping SMEs unlock growth through data-driven decisions, predictive analytics & AI-powered solutions.
 

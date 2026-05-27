@@ -2,14 +2,20 @@
 
 **Data & AI Consultant | Data Scientist | AI Engineer**
 
-Helping SMEs unlock growth through data-driven decisions, predictive analytics & AI-powered solutions.
+𝐃𝐚𝐭𝐚 & 𝐀𝐈 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 specializing in 𝐂𝐫𝐞𝐝𝐢𝐭 𝐑𝐢𝐬𝐤 𝐚𝐧𝐝 𝐋𝐞𝐧𝐝𝐢𝐧𝐠 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬, focused on transforming financial data into actionable risk intelligence.
 
-## HOW I BRING VALUE TO SMEs
-I bridge the gap between raw data and business growth. With expertise in **data analysis, AI, and software systems**, I help SMEs solve challenges like:
-* **Customer Insights & Marketing** → Using data to understand customers, improve targeting, and boost sales.
-* **Operational Efficiency** → Automating repetitive tasks and predicting risks before they hit profits.
-* **Financial Decision-Making** → Applying AI/ML models for smarter planning, forecasting, and risk analysis.
-* **Innovation & Competitiveness** → Building AI-driven tools that keep SMEs ahead in fast-changing markets.
+I work at the intersection of 𝐝𝐚𝐭𝐚 𝐚𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬, 𝐟𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐫𝐢𝐬𝐤 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭, and 𝐥𝐞𝐧𝐝𝐢𝐧𝐠 𝐬𝐲𝐬𝐭𝐞𝐦𝐬, analyzing borrower behavior, credit performance, and portfolio trends to support smarter lending and financial decisions.
+
+My experience involves working with financial institutions and fintech teams to leverage data for 𝐜𝐫𝐞𝐝𝐢𝐭 𝐫𝐢𝐬𝐤 𝐚𝐬𝐬𝐞𝐬𝐬𝐦𝐞𝐧𝐭, 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐦𝐨𝐧𝐢𝐭𝐨𝐫𝐢𝐧𝐠, and 𝐨𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲.
+
+Key areas of focus
+- Credit Risk Analytics
+- Lending & Portfolio Performance Analysis
+- Risk Detection & Monitoring
+- Data-Driven Financial Decision Making
+- AI & Data Analytics (Python, SQL, Machine Learning)
+
+I am building deep expertise in 𝐟𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐫𝐢𝐬𝐤 𝐚𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 and 𝐪𝐮𝐚𝐧𝐭𝐢𝐭𝐚𝐭𝐢𝐯𝐞 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬, with a long-term goal of contributing to stronger lending systems and risk frameworks across 𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐚𝐧𝐝 𝐠𝐥𝐨𝐛𝐚𝐥 𝐟𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐦𝐚𝐫𝐤𝐞𝐭𝐬.
 
 ## PROJECTS & SOLUTIONS
 **AI for Business & Industry**
@@ -29,31 +35,12 @@ I bridge the gap between raw data and business growth. With expertise in **data 
 **Customer Insights** 
 - **[Twitter Sentiment Analysis - Group Project](https://github.com/MONISH254/Twitter_Sentiment_Analysis/tree/Isaac)**
 
-* **Software & Systems**
-- **[Real Estate Management System](https://github.com/Kirbit04/Real-Estate-Management-system/tree/IsaacNgugi1049049)**
-- **[Seed Bank Management System](https://github.com/iamisaackn/Seed-Bank-Management-System)**
-
-## Software System Projects
-- **[Company Management System - Group Project (C# Programming &.Net Frameworks)](https://github.com/iamisaackn/CompanyManagementSystem)**
-- **[MyTutor - Group Project (Java Programming & PhP Framework)](https://github.com/iamisaackn/MyTutor)**
-- **[Fleet Management Systems: A Case Study of Verizon Connect In Health](https://www.researchgate.net/publication/386086740_FLEET_MANAGEMENT_SYSTEMS_A_CASE_STUDY_OF_VERIZON_CONNECT_IN_HEALTH)** — **Research Proposal**
-
-## VOLUNTEER EXPERIENCE
-- **Global Youth Ambassador — TheirWorld**
-- **Ambassador — Youth Ownership of Digital Health**
-- **Judges and Expert Lead — HULT PRIZE Catholic University of Eastern Africa**
-- **Data Science Lead — Catholic University Innovation Hub**
-- **Marketing and Media Lead — Google Developer Group Catholic University of Eastern Africa Chapter**
-
 ## EDUCATION & ACHIEVEMENTS
-- **Catholic University Eastern Africa, Karen** — *BSc. in Computer Science* 🎓
-- **Moringa School, Ngong** — *Nano-Degree in Data Science* 💻
-- **Mastercard Scholar & Digital Health Week Host**
+- **Catholic University Eastern Africa, Karen** — *BSc. in Computer Science*
+- **Moringa School, Ngong** — *Certificate in Data Science*
 
 ## CONNECT
 - **[Email: isaackngugi.ds@gmail.com](mailto:isaackngugi.ds@gmail.com)**
 - **[LinkedIn: isaackngugi](https://www.linkedin.com/in/isaackngugi/)**
-- **[X/Twitter: itsisaackngugi](https://x.com/itsisaackngugi)**
-- **[FaceBook: iamisaackn](https://web.facebook.com/iamisaackn/)**
 - **[Website Portfolio ](https://iamisaackn.github.io)**
 
